@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">InterestEdu</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="confirmpassword">Confirm password</string>
+    <string name="login">Login</string>
+    <string name="user_name">User name</string>
+    <string name="hang_up">Hang up</string>
+    <string name="answer">Answer</string>
+    <string name="Hands_free">Handsfree</string>
+    <string name="mute">Mute</string>
+    <string name="recording_video">Record video</string>
+    <string name="switch_camera">Switch camera</string>
+</resources>
